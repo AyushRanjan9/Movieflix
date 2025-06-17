@@ -1,12 +1,12 @@
 import config from './config.js';
 
 // TMDB API Configuration
-const TMDB_API_KEY = '3fd2be6f0c70a2a598f084ddfb75487c'; // Replace with your TMDB API key
+const TMDB_API_KEY = '-------'; // Replace with your TMDB API key
 const TMDB_BASE_URL = 'https://api.themoviedb.org/3';
 const TMDB_IMAGE_BASE_URL = 'https://image.tmdb.org/t/p';
 
 // YouTube API Configuration
-const YOUTUBE_API_KEY = 'AIzaSyDfv71ono79nQuB0tQOGcMlVlc663GAetM'; // Replace with your YouTube API key
+const YOUTUBE_API_KEY = '------'; // Replace with your YouTube API key
 const YOUTUBE_BASE_URL = 'https://www.googleapis.com/youtube/v3';
 
 class MovieAPI {
